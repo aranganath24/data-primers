@@ -83,6 +83,8 @@ Seliger, C. S. (2018). Text Mining and Plotting Tools for KSA / DS / HEI Researc
 
 Are all the used packages openly available? And if so where? (It can be a researcher’s website, but ideally  other more general sharing platform, such as CRAN or GitHub.) If the files are not in CRAN, GitHub, or other  publicly available site, please include the source code for the packages. 
 
+Are relevant packages actively maintained and updated? 
+
 # Applicable metadata standard, core elements and readme requirements
 
 **READMEs**
